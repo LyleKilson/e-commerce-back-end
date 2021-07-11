@@ -1,5 +1,22 @@
-# E-Commerce Back End
-An Object-Relational Mapping (ORM) Demonstration 
+<h1 align="center">E-Commerce Back End</h1>
+<p align="center">An Object-Relational Mapping (ORM) Demonstration</p>
+
+<p align="center">
+    <img src="https://img.shields.io/github/repo-size/lylekilson/e-commerce-back-end" />
+    <img src="https://img.shields.io/github/languages/top/lylekilson/e-commerce-back-end"  />
+    <img src="https://img.shields.io/github/issues/lylekilson/e-commerce-back-end" />
+    <img src="https://img.shields.io/github/last-commit/lylekilson/e-commerce-back-end" >
+</p>
+  
+<p align="center">
+    <img src="https://img.shields.io/badge/Javascript-yellow" />
+    <img src="https://img.shields.io/badge/express-orange" />
+    <img src="https://img.shields.io/badge/Inquirer-blue"  />
+    <img src="https://img.shields.io/badge/Sequelize-red"  />
+    <img src="https://img.shields.io/badge/mySQL-purple"  />
+    <img src="https://img.shields.io/badge/dotenv-green" />
+</p>
+
 
 ## Discrption
 Internet retail, also known as e-commerce, is the largest sector of the electronics industry, having generated an estimated US$29 trillion in 2017 (Source: United Nations Conference on Trade and Development). E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to the prevalence of these platforms, developers should understand the fundamental architecture of e-commerce sites. 
