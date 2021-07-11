@@ -60,7 +60,10 @@ GET routes to return a single category, a single product, and a single tag being
 POST, PUT, and DELETE routes for categories being tested in Insomnia Core
 
 ---
+## Installing Dependencies
+Enter the following command to install the required Node Package Modules:
 
+`npm i mysql2 sequelize dotenv`
 ## Running the Application 
   
 Enter the following command in your CLI at the root of the applicatin and answer the prompted questions:

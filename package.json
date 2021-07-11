@@ -1,0 +1,32 @@
+{
+  "name": "e-commerce-back-end",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">E-Commerce Back End</h1> <p align=\"center\">An Object-Relational Mapping (ORM) Demonstration</p>",
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeds/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LyleKilson/e-commerce-back-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LyleKilson/e-commerce-back-end/issues"
+  },
+  "homepage": "https://github.com/LyleKilson/e-commerce-back-end#readme"
+}
