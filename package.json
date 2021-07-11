@@ -1,7 +1,7 @@
 {
   "name": "e-commerce-back-end",
   "version": "1.0.0",
-  "description": "<h1 align=\"center\">E-Commerce Back End</h1> <p align=\"center\">An Object-Relational Mapping (ORM) Demonstration</p>",
+  "description": "An Object-Relational Mapping (ORM) Demonstration",
   "main": "server.js",
   "dependencies": {
     "dotenv": "^10.0.0",
