@@ -11,7 +11,6 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Javascript-yellow" />
     <img src="https://img.shields.io/badge/express-orange" />
-    <img src="https://img.shields.io/badge/Inquirer-blue"  />
     <img src="https://img.shields.io/badge/Sequelize-red"  />
     <img src="https://img.shields.io/badge/mySQL-purple"  />
     <img src="https://img.shields.io/badge/dotenv-green" />
