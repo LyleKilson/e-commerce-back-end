@@ -50,23 +50,27 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
 ```
 
-## Demos
+## Demo Videos
 
-![demoVideo](./demo.gif)
+![demoVideo](./images/demo.gif)
 
-Here is a demo of the seeding and starting of the DB and server.
-
----
-
-GET routes to return all categories, all products, and all tags being tested in Insomnia Core
+Seeding and starting of the DB and server.
 
 ---
 
-GET routes to return a single category, a single product, and a single tag being tested in Insomnia Core
+![demoVideo2](./images/GETall.gif)
+
+`GET` routes returning all Categories, all Products, and all Tags being tested in Insomnia Core.
 
 ---
 
-POST, PUT, and DELETE routes for categories being tested in Insomnia Core
+![demoVideo3](./images/GETbyID.gif)
+
+`GET` routes to return a single Category, a single Product, and a single Tag being tested in Insomnia Core
+
+---
+
+Click this [link](https://drive.google.com/file/d/1NmMGa0ilBML55Q9gwJL5TepVixNS6f-Y/view) to see the full demo video on `POST`, `PUT`, and `DELETE` routes for Categories, Products, and Tags being tested in Insomnia Core.
 
 ---
 
